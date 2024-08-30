@@ -6,7 +6,7 @@ const Modal = ({ onClose, results, data }) => {
       <div className="modal-background" onClick={onClose}></div>
       <div className="modal-card">
         <header className="modal-card-head">
-          <p className="modal-card-title">Suas Respostas</p>
+          <p className="modal-card-title">SUAS RESPOSTAS</p>
           <button className="delete" onClick={onClose}></button>
         </header>
         <section className="modal-card-body content">

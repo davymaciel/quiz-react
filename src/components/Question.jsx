@@ -21,7 +21,7 @@ const Question = ({ data, onAnswerUpdate, numberOfQuestions, activeQuestion, onS
   
   const nextClickHandler = (e) => {
     if(selected === '') {
-      return setError('Please select one option!');
+      return setError('Por favor, selecione uma questão!');
     }
     onAnswerUpdate(prevState => [...prevState, { q: data.question, a: selected }]);
     setSelected('');

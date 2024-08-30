@@ -1,29 +1,29 @@
 {
-    "data": [
-      {
-        "question": "O que é o React?",
-        "choices": ["Uma linguagem de programação para desenvolvimento de backend", "Linguagem de Marcação", "Um framework CSS", "Uma biblioteca JavaScript para criar interfaces de usuário"],
-        "answer": "Uma biblioteca JavaScript para criar interfaces de usuário"
-      },
-      {
-        "question": "React é uma biblioteca de:",
-        "choices": ["C#", "JavaScript", "Python", "Java"],
-        "answer": "JavaScript"
-      },
-      {
-        "question": "O que é o JSX no React?",
-        "choices": ["Uma ferramenta para depuração de código JavaScript", "Uma sintaxe que permite escrever HTML dentro de arquivos JavaScript", "Um método para estilizar componentes React", "Um sistema de roteamento para aplicações React"],
-        "answer": "Uma sintaxe que permite escrever HTML dentro de arquivos JavaScript"
-      },
-      {
-        "question": "O que é um Hook em React?",
-        "choices": ["Uma ferramenta para configurar a comunicação com o backend", "Uma função que permite usar o estado e outros recursos do React sem escrever uma classe", "Um método para criar novos componentes em React", "Um sistema para gerenciar rotas dentro da aplicação"],
-        "answer": "Uma função que permite usar o estado e outros recursos do React sem escrever uma classe"
-      },
-      {
-        "question": "Qual é a função do CSS?",
-        "choices": ["Adicionar interatividade às páginas web", " Definir o estilo e layout das páginas web", "Gerenciar dados em um banco de dados", "Criar novos componentes de software"],
-        "answer": " Definir o estilo e layout das páginas web"
-      }
-    ]
-  }
+  "data": [
+    {
+      "question": "1. Qual das opções a seguir é uma biblioteca JavaScript popular usada para construção de interfaces de usuário?",
+      "choices": ["Django", "Laravel", "React", "Spring", "Next"],
+      "answer": "React"
+    },
+    {
+      "question": "2. Qual é a sintaxe usada no React.js para escrever HTML dentro do código JavaScript?",
+      "choices": ["JSON", "JSX", "XML", "SQL","CSS"],
+      "answer": "XML"
+    },
+    {
+      "question": "3. Construir interfaces de usuário reativas e eficientes é o objetivo principal do React.js.",
+      "choices": ["Certo", "Errado"],
+      "answer": "Certo"
+    },
+    {
+      "question": "4. O Vite é uma biblioteca de gerenciamento de estado para React.js.",
+      "choices": ["Certo", "Errado"],
+      "answer": "Errado"
+    },
+    {
+      "question": "5. Qual foi a empresa responsável por criar o React.js?",
+      "choices": ["Google", "Microsoft", "Facebook", "Amazon","Twitter"],
+      "answer": "Facebook"
+    }
+  ]
+}
